@@ -23,3 +23,6 @@ go.work.sum
 
 # env file
 .env
+*.swp
+cmd/extractip4/extractip4
+cmd/findip4/findip4
